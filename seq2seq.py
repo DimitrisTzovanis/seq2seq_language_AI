@@ -833,9 +833,9 @@ class Export(tf.Module):
     return self.model.translate(inputs)
 
 inputs = [
-    'τι κανεις;', # "It's really cold here."
-    'Πως εισαι;', # "This is my life."
-    'Γεια' # "His room is a mess"
+    'Hello', 
+    'How are you',
+    'Hi' 
 ]
 
 
