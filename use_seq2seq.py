@@ -6,7 +6,7 @@ reloaded = tf.saved_model.load('translator')
 
 
 inputs = [
-    'Πως εισαι', # "His room is a mess"
+    'Hello', # "His room is a mess"
 ]
 
 
